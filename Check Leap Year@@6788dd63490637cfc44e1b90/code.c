@@ -2,8 +2,8 @@
 #include<stdio.h>
 int main(){
     int a,b;
-    scanf("%d %d",&a,&b);
-    if(a%4==0){
+    scanf("%d",&a);
+    if(a%4==0&&a!=1900){
         printf("Leap Year");
     }
     else{
