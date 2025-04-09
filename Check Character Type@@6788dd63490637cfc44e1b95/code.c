@@ -2,7 +2,6 @@
 #include <stdio.h>
 int main() {
     char ch;
-    printf("Enter a character:\n");
     scanf("%c", &ch);
     // Check for vowels (both uppercase and lowercase)
     if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
