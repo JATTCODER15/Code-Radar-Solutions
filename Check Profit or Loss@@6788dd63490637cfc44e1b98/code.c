@@ -6,7 +6,7 @@ int main(){
     if(cp>sp){
         printf("Profit");
     }
-    else if(cp=sp){
+    else if(cp==sp){
         printf("No Profit No Loss");
     }
     else if(cp<sp){
