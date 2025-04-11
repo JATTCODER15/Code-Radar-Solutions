@@ -10,7 +10,7 @@ int main(){
         printf("Equilateral");
     }
     else{
-        printtf("Scalene")
+        printtf("Scalene");
         }
         return(0);
 }
