@@ -12,4 +12,5 @@ int main(){
     else(cp<sp){
         printf("Loss");
     }
+    return 0;
 }
